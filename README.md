@@ -4,7 +4,7 @@
 
 # ReyadStack | Full Stack Architecture Guide in Arabic | دليل معمارية Full Stack للمطورين
 
-[افتح الدليل / Live guide](https://reyad-dev.github.io/fullstack-architecture-guide/) · [GitHub](https://github.com/reyad-dev) · [Portfolio](https://reyad.site/)
+[افتح الدليل / Live guide](https://reyad-dev.github.io/reyad-stack/) · [GitHub](https://github.com/reyad-dev) · [Portfolio](https://reyad.site/)
 
 **ReyadStack**, created by **Mohamed Reyad (@reyad-dev)**, is a free Arabic full-stack architecture guide for front-end developers who want to understand project architecture, backend structure, scaling, and production-ready organization.
 
@@ -82,7 +82,7 @@ The page includes a descriptive Arabic title and H1, a meta description, index/f
 
 الصفحة مجهزة بعنوان ووصف عربيين، ورابط أساسي موحد، وبيانات منظمة للدليل التعليمي، وأسئلة شائعة وخريطة موقع. نسختا HTML تشيران إلى الرابط الأساسي نفسه. الإعدادات تساعد محركات البحث على فهم الصفحة، لكنها لا تضمن ترتيبًا أو فهرسة فورية.
 
-To monitor indexing, verify ownership of the URL-prefix property `https://reyad-dev.github.io/fullstack-architecture-guide/` in Google Search Console. Add the provided verification tag to both HTML files, submit `sitemap.xml`, then inspect the canonical URL and request indexing. No Search Console property has been verified or indexing request submitted by this repository setup.
+To monitor indexing, verify ownership of the URL-prefix property `https://reyad-dev.github.io/reyad-stack/` in Google Search Console. Add the provided verification tag to both HTML files, submit `sitemap.xml`, then inspect the canonical URL and request indexing. No Search Console property has been verified or indexing request submitted by this repository setup.
 
 لمتابعة الفهرسة، أضف رابط المشروع كخاصية URL-prefix في Google Search Console، ثم ضع وسم التحقق الذي يمنحه Google داخل ملفي HTML. بعد التحقق، أرسل `sitemap.xml` وافحص الرابط الأساسي واطلب فهرسته. إعداد المشروع وحده لا ينشئ خاصية Search Console ولا يرسل طلب فهرسة.
 
